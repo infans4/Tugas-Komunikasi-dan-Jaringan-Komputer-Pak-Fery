@@ -2,6 +2,10 @@
 
 SMTP adalah protokol standar yang digunakan untuk mengirim email melalui internet. Protokol ini bertanggung jawab atas pengiriman pesan dari klien pengirim ke server email penerima dan antar server email. SMTP bekerja pada **port 25**, **port 465** (untuk SSL), dan **port 587** (untuk TLS).
 
+![Cara Kerja](https://github.com/infans4/Tugas-Komunikasi-dan-Jaringan-Komputer-Pak-Fery/blob/main/Tugas-5_SMTP/assets/Cara-Kerja-SMTP.jpg)
+
+###### Src: https://blogs.powercode.id/mengenal-apa-itu-smtp-dan-cara-kerjanya/
+
 ---
 
 ## **1. Arsitektur dan Komponen SMTP**  
