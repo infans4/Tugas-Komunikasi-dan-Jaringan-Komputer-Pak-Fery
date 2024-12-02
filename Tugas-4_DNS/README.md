@@ -2,6 +2,8 @@
 
 DNS adalah sistem terdistribusi yang memungkinkan perangkat di jaringan seperti internet untuk mengonversi nama domain menjadi alamat IP. Komputer tidak memahami nama domain seperti `www.google.com`; mereka bekerja dengan alamat IP untuk menemukan server yang tepat.
 
+![Cara Kerja](https://github.com/infans4/Tugas-Komunikasi-dan-Jaringan-Komputer-Pak-Fery/blob/main/Tugas-4_DNS/assets/DNS-Query.jpeg)
+Src: https://cloudraya.com/blog/apa-itu-dns/
 ---
 
 ## **1. Struktur dan Komponen DNS**
