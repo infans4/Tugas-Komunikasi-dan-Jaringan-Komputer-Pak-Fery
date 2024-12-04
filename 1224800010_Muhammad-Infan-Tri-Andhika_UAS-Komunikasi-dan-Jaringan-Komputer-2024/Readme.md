@@ -17,6 +17,9 @@ Based on the figure above, the first client computer initiation IP Address mean 
 Answer:
 Based on the figure above, the response from client computer initiation IP Address is the server that mean gaia.cs.umass.edu. So the IP address is 128.119.245.12 and the port of the TCP is 80.
 
+### Penjelasan Nomor 2 Soal UAS Komunikasi Jaringan dan Komputer 2024/2025
+[![Watch the video](https://img.youtube.com/vi/a7qzqC4DHO4/0.jpg)](https://www.youtube.com/watch?v=a7qzqC4DHO4)
+
 ## **3. 	What is the sequence number of the TCP SYN segment that is used to initiate the TCP connection between the client computer and gaia.cs.umass.edu? What is it in the segment that identifies the segment as a SYN segment? (Attach the screenshot of your Wireshark's display) (10%)**
 ![Figure 3](https://github.com/infans4/1224800010_Muhammad-Infan-Tri-Andhika_UAS-Komunikasi-dan-Jaringan-Komputer-2024/blob/main/assets/Picture%203.png)
 Answer:
